@@ -49,20 +49,19 @@ Portafolio auditado con código abierto, pipelines de CI en verde y demostracion
 
 ### 🇫🇷 [Inca Kinésiologie](https://inca-kinesiologie.fr) · *Gard, Francia (Remoto Internacional)* `[10/2026]`
 **Desarrollador Web Full Stack, WPO & Seguridad (Freelance)**
-- **Arquitectura Multilingüe (i18n) & SEO Técnico:** Expansión integral a ecosistema de 21 páginas (Francés, Español, Inglés) implementando etiquetas canónicas, `hreflang` cruzado y microdatos estructurados `Schema.org` para posicionamiento en motores de búsqueda europeos.
-- **Backend Seguro & Flujo SMTP:** Desarrollo del motor de procesamiento en PHP con sanitización estricta de entradas, mecanismo anti-spam *honeypot* y protección contra inyección de cabeceras SMTP en infraestructura **OVHcloud**.
-- **Privacy by Design (RGPD/CNIL) & Hardening:** Arquitectura *Zero-Cookies* sin necesidad de banner invasivo mediante auto-alojamiento de tipografías (`.woff2`) y recursos gráficos (`.webp`). Endurecimiento en servidor Apache (`.htaccess`) configurando HSTS estricto, Content Security Policy (CSP), protección contra Clickjacking y mitigación XSS.
+- **Diseñé y desplegué** una arquitectura multilingüe escalable sobre 21 rutas estáticas (FR, ES, EN) con indexación canónica estricta, mapeo `hreflang` cruzado y microdatos `Schema.org`, maximizando el posicionamiento SEO técnico orgánico transfronterizo.
+- **Implementé** el backend de contacto en PHP 8 con sanitización multicapa, trampa *honeypot* anti-spam sin fricción de CAPTCHAs y protección contra inyección de cabeceras en servidores **OVHcloud**.
+- **Blindé** la plataforma bajo postura de *Privacy-by-Design* libre de cookies de terceros (cumplimiento RGPD/CNIL sin banner invasivo), auto-alojando activos (`.woff2`/`.webp`) y aplicando hardening en Apache (`.htaccess`) con HSTS, CSP y mitigación XSS.
 
 ### 🇪🇸 Flores Solidarias · *Valencia* `[03/2026 – 05/2026]`
 **Desarrollador Web Full Stack & E-Commerce (Prácticas)**
-- Diagnóstico y resolución de incidencias transaccionales críticas en el checkout y pasarelas de pago en producción.
-- Detección y mitigación de brechas técnicas de seguridad que afectaban el acceso y disponibilidad del portal.
-- Optimización de Core Web Vitals (LCP, CLS, TTFB) y desarrollo de módulos a medida sobre WooCommerce.
+- **Audité y resolví** incidencias transaccionales críticas en el embudo de checkout y la pasarela de pagos de WooCommerce en producción, restaurando la tasa de conversión y previniendo pérdidas de ingresos.
+- **Mitigué** vectores de vulnerabilidad en la superficie web restringiendo la ejecución de scripts en directorios de subida y blindando accesos administrativos, asegurando la continuidad del negocio.
+- **Optimicé** los Core Web Vitals de la tienda online reduciendo sustancialmente los tiempos de carga (LCP) y la estabilidad visual (CLS) mediante carga diferida de scripts y depuración de consultas SQL sobrecargadas.
 
 ### 🇪🇸 S Comunicativa S.L. · *Beneixida, Valencia* `[03/2025 – 04/2025]`
 **Desarrollador Frontend & WordPress (Prácticas)**
-- Maquetación web con CSS3 y JavaScript, implementando interfaces interactivas y adaptativas (Responsive Design).
-- Creación e integración de plantillas adaptadas y resolución de bugs en producción.
+- **Desarrollé** interfaces web interactivas con CSS3 y JavaScript moderno, personalizando plantillas adaptativas (Responsive Design) de alta fidelidad y subsanando errores en entornos de producción.
 
 ---
 
