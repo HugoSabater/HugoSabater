@@ -2,6 +2,7 @@
 
 <p align="left">
   <strong>Full Stack Software Engineer & Web Architect</strong><br>
+  🌍 <em>Experiencia Internacional en Producción (España & Francia)</em><br>
   📍 Valencia, España · <em>Disponible para oportunidades en Remoto / Híbrido</em>
 </p>
 
@@ -24,15 +25,15 @@
 
 ## 👨‍💻 Perfil Profesional
 
-Desarrollador Web Full Stack y Graduado en **Desarrollo de Aplicaciones Web (DAW)** con credenciales técnicas oficiales en **AWS Cloud Developing & Foundations**. Especializado en la arquitectura e implementación de aplicaciones web modernas de alto rendimiento, microservicios distribuidos contenerizados, plataformas transaccionales con pasarelas de pago y programación de sistemas en **Rust**.
+Desarrollador Web Full Stack titulado en el **Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)** con credenciales técnicas oficiales en **AWS Cloud Developing & Foundations** y trayectoria entregando plataformas en producción tanto a nivel nacional como internacional (España y Francia).
 
-Cuento con un portafolio público de software auditado con pipelines de **Integración Continua (GitHub Actions CI)** y despliegues serverless activos. Combino dominio en el ecosistema **TypeScript (Next.js 16 SSR, React 19, Angular 17, Node.js)** y bases de datos relacionales (**PostgreSQL/Supabase, MySQL, SQLite**) con experiencia práctica resolviendo incidencias de rendimiento crítico, pasarelas de pago y seguridad en entornos productivos (**0 CVEs auditadas**).
+Especializado en la arquitectura e implementación de aplicaciones web modernas de alto rendimiento, microservicios distribuidos contenerizados, plataformas transaccionales seguras y desarrollo de sistemas en **Rust 2024**. Portafolio público de software auditado con pipelines de **Integración Continua (GitHub Actions CI)** y despliegues serverless activos (**0 CVEs en producción**).
 
 ---
 
 ## ⭐ Proyectos Públicos Estrella
 
-Portafolio auditado con código abierto, pipelines de CI en verde y despliegues en producción accesibles:
+Portafolio auditado con código abierto, pipelines de CI en verde y demostraciones en vivo en producción:
 
 | Proyecto & Repositorio | Demostración en Vivo / Tipo | Stack Tecnológico Principal | Estado CI/CD |
 | :--- | :--- | :--- | :---: |
@@ -44,7 +45,28 @@ Portafolio auditado con código abierto, pipelines de CI en verde y despliegues 
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 💼 Experiencia Profesional Reciente
+
+### 🇫🇷 [Inca Kinésiologie](https://inca-kinesiologie.fr) · *Gard, Francia (Remoto Internacional)* `[10/2026]`
+**Desarrollador Web Full Stack, WPO & Seguridad (Freelance)**
+- **Arquitectura Multilingüe (i18n) & SEO Técnico:** Expansión integral a ecosistema de 21 páginas (Francés, Español, Inglés) implementando etiquetas canónicas, `hreflang` cruzado y microdatos estructurados `Schema.org` para posicionamiento en motores de búsqueda europeos.
+- **Backend Seguro & Flujo SMTP:** Desarrollo del motor de procesamiento en PHP con sanitización estricta de entradas, mecanismo anti-spam *honeypot* y protección contra inyección de cabeceras SMTP en infraestructura **OVHcloud**.
+- **Privacy by Design (RGPD/CNIL) & Hardening:** Arquitectura *Zero-Cookies* sin necesidad de banner invasivo mediante auto-alojamiento de tipografías (`.woff2`) y recursos gráficos (`.webp`). Endurecimiento en servidor Apache (`.htaccess`) configurando HSTS estricto, Content Security Policy (CSP), protección contra Clickjacking y mitigación XSS.
+
+### 🇪🇸 Flores Solidarias · *Valencia* `[03/2026 – 05/2026]`
+**Desarrollador Web Full Stack & E-Commerce (Prácticas)**
+- Diagnóstico y resolución de incidencias transaccionales críticas en el checkout y pasarelas de pago en producción.
+- Detección y mitigación de brechas técnicas de seguridad que afectaban el acceso y disponibilidad del portal.
+- Optimización de Core Web Vitals (LCP, CLS, TTFB) y desarrollo de módulos a medida sobre WooCommerce.
+
+### 🇪🇸 S Comunicativa S.L. · *Beneixida, Valencia* `[03/2025 – 04/2025]`
+**Desarrollador Frontend & WordPress (Prácticas)**
+- Maquetación web con CSS3 y JavaScript, implementando interfaces interactivas y adaptativas (Responsive Design).
+- Creación e integración de plantillas adaptadas y resolución de bugs en producción.
+
+---
+
+## 🛠️ Stack Tecnológico Agrupado
 
 ### Frontend & Renderizado Moderno
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -53,7 +75,7 @@ Portafolio auditado con código abierto, pipelines de CI en verde y despliegues 
 ![Angular 17](https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Fabric.js](https://img.shields.io/badge/Fabric.js_v5-FFA500?style=flat-square&logoColor=white)
+![Fabric.js](https://img.shields.io/badge/Fabric.js_v5-FFA500?style=flat-square&logo=white&logoColor=white)
 
 ### Backend & Arquitectura de Microservicios
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -64,37 +86,30 @@ Portafolio auditado con código abierto, pipelines de CI en verde y despliegues 
 ![PHP 8.2](https://img.shields.io/badge/PHP_8.2_MVC-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java_POO_/_DAO-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Bases de Datos & Cloud Computing
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase_Auth_/_RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_&_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Sistemas, Rendimiento & DevSecOps
+### Sistemas en Rust, Rendimiento & Ciberseguridad
 ![Rust 2024](https://img.shields.io/badge/Rust_2024-000000?style=flat-square&logo=rust&logoColor=white)
 ![Win32 API](https://img.shields.io/badge/Win32_API-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/Wasmtime_Sandbox-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals_WPO-059669?style=flat-square&logo=googlechrome&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Hardening Apache](https://img.shields.io/badge/Apache_HSTS_/_CSP-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Gitleaks & OSV](https://img.shields.io/badge/Gitleaks_0_Secrets-4CAF50?style=flat-square&logoColor=white)
+
+### Cloud AWS, Infraestructura & Bases de Datos
+![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase_Auth_/_RLS-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_&_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?style=flat-square&logo=ovh&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_CI-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-## 💼 Experiencia Profesional
+## 🌍 Liderazgo & Programas Europeos
 
-- **Desarrollador Web Full Stack & WPO (Prácticas)** · *Flores Solidarias* `[03/2026 – 05/2026]`
-  - Diagnóstico y resolución de incidencias transaccionales críticas en el flujo de checkout y pasarelas de cobro en producción.
-  - Auditoría y resolución de brechas técnicas de seguridad que afectaban la disponibilidad del portal.
-  - Optimización de Core Web Vitals (LCP, CLS, TTFB) y desarrollo de módulos a medida sobre WooCommerce.
-
-- **Desarrollador Frontend & WordPress (Prácticas)** · *S Comunicativa S.L.* `[03/2025 – 04/2025]`
-  - Maquetación web a medida con CSS3 y JavaScript, implementando interfaces responsivas de alta fidelidad.
-  - Creación de vistas interactivas adaptativas y resolución de incidencias en portales corporativos.
-
-- **Socorrista de Instalación Acuática Municipal** · *Advanced Facilities Services / Ayto. de Beneixida* `[06/2025 – 08/2025]`
-  - Prevención activa de riesgos, vigilancia y aplicación de Soporte Vital Básico (SVB) bajo protocolos críticos.
+- **Proyecto Europeo "Active Youth" (Actualidad):** Participación activa en iniciativas internacionales de cooperación juvenil de la Unión Europea, desarrollando comunicación intercultural en inglés y trabajo en equipos distribuidos.
+- **Corresponsal Juvenil Oficial (03/2024 – Actualidad):** Corresponsales Juveniles de la Ribera Alta y representación en el *Encuentro Ibero-Insular de Jóvenes Corresponsales*.
 
 ---
 
@@ -111,7 +126,7 @@ Portafolio auditado con código abierto, pipelines de CI en verde y despliegues 
 ## 🚀 Ventaja de Contratación
 
 > [!TIP]
-> **Garantía Juvenil Activa (SEPE):** Inscrito oficialmente en el Sistema Nacional de Garantía Juvenil (2026). Elegible para bonificaciones inmediatas a la contratación en empresas del sector tecnológico.
+> **Garantía Juvenil Activa (SEPE):** Inscrito oficialmente en el Sistema Nacional de Garantía Juvenil (2026). Elegible para bonificaciones inmediatas en cuotas de la Seguridad Social para contrataciones en el sector tecnológico.
 
 ---
 
